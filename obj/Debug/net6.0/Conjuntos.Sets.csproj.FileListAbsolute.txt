@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Courses\Conjuntos\Conjuntos.Sets\bin\Debug\net6.0\Conjuntos.Sets.exe
+C:\Users\Usuario\Desktop\Courses\Conjuntos\Conjuntos.Sets\bin\Debug\net6.0\Conjuntos.Sets.deps.json
+C:\Users\Usuario\Desktop\Courses\Conjuntos\Conjuntos.Sets\bin\Debug\net6.0\Conjuntos.Sets.runtimeconfig.json
+C:\Users\Usuario\Desktop\Courses\Conjuntos\Conjuntos.Sets\bin\Debug\net6.0\Conjuntos.Sets.dll
+C:\Users\Usuario\Desktop\Courses\Conjuntos\Conjuntos.Sets\bin\Debug\net6.0\Conjuntos.Sets.pdb
+C:\Users\Usuario\Desktop\Courses\Conjuntos\Conjuntos.Sets\obj\Debug\net6.0\Conjuntos.Sets.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Courses\Conjuntos\Conjuntos.Sets\obj\Debug\net6.0\Conjuntos.Sets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Courses\Conjuntos\Conjuntos.Sets\obj\Debug\net6.0\Conjuntos.Sets.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Courses\Conjuntos\Conjuntos.Sets\obj\Debug\net6.0\Conjuntos.Sets.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Courses\Conjuntos\Conjuntos.Sets\obj\Debug\net6.0\Conjuntos.Sets.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Courses\Conjuntos\Conjuntos.Sets\obj\Debug\net6.0\Conjuntos.Sets.dll
+C:\Users\Usuario\Desktop\Courses\Conjuntos\Conjuntos.Sets\obj\Debug\net6.0\refint\Conjuntos.Sets.dll
+C:\Users\Usuario\Desktop\Courses\Conjuntos\Conjuntos.Sets\obj\Debug\net6.0\Conjuntos.Sets.pdb
+C:\Users\Usuario\Desktop\Courses\Conjuntos\Conjuntos.Sets\obj\Debug\net6.0\Conjuntos.Sets.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Courses\Conjuntos\Conjuntos.Sets\obj\Debug\net6.0\ref\Conjuntos.Sets.dll
